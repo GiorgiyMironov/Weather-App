@@ -1,5 +1,5 @@
 import requests
-#
+#Приєднуємо модулі Read Json
 from .read_json import read_json
 #
 from .write_json import create_json
